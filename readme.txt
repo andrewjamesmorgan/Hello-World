@@ -1,1 +1,2 @@
-hello there
+hello there.
+This is the second line.
